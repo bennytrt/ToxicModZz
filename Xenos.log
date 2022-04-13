@@ -1,0 +1,16 @@
+2022-03-30 18:55:05 *NORMAL*     Started on Windows 10.0.0.19044 x64. Driver status: 0xC0000225
+2022-03-30 18:57:22 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12076, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-03-30 18:57:22 *CRITICAL*   Injecting image 'C:\Users\nigga\Desktop\toxicModZz menu\ToxicModZz .dll'
+2022-03-30 18:58:25 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12076, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-03-30 18:58:25 *ERROR*      Can not attach to the process.
+An attempt was made to access an exiting process.
+
+2022-03-30 18:58:27 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12076, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-03-30 18:58:27 *ERROR*      Can not attach to the process.
+An attempt was made to access an exiting process.
+
+2022-03-30 18:58:35 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 10532, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-03-30 18:58:35 *CRITICAL*   Injecting image 'C:\Users\nigga\Desktop\toxicModZz menu\ToxicModZz .dll'
+2022-03-30 19:00:33 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14168, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2022-03-30 19:00:33 *CRITICAL*   Injecting image 'C:\Users\nigga\Desktop\toxicModZz menu\ToxicModZz .dll'
+
